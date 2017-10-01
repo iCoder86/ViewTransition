@@ -1,6 +1,6 @@
 # ViewTransition
 
-<a href="https://github.com/iCoder86/ViewTransition/blob/master/TransitionOnView/TransitionOnView/ViewTransition.gif" title="made at imgflip.com"/></a>
+<img src="https://github.com/iCoder86/ViewTransition/blob/master/TransitionOnView/TransitionOnView/ViewTransition.gif" title="made at imgflip.com"/>
 
     @IBAction func switchAction(_ sender: UIButton) {
         isFliped = !isFliped
