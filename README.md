@@ -11,3 +11,5 @@
         UIView.transition(from: fromView!, to: toView!, duration: 0.3, options: [(isFliped) ? .transitionFlipFromLeft : .transitionFlipFromRight,.showHideTransitionViews])
         
     }
+
+<a href="https://www.youtube.com/watch?v=Psp0pzbwAWY">Reference</a>
